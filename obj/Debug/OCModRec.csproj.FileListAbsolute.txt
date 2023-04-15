@@ -1,0 +1,17 @@
+D:\Developpement\OCModRec\bin\Debug\OCModRec.exe.config
+D:\Developpement\OCModRec\bin\Debug\OCModRec.exe
+D:\Developpement\OCModRec\bin\Debug\OCModRec.pdb
+D:\Developpement\OCModRec\obj\Debug\OCModRec.csproj.AssemblyReference.cache
+D:\Developpement\OCModRec\obj\Debug\OCModRec.csproj.SuggestedBindingRedirects.cache
+D:\Developpement\OCModRec\obj\Debug\OCModRec.Properties.Resources.resources
+D:\Developpement\OCModRec\obj\Debug\OCModRec.csproj.GenerateResource.cache
+D:\Developpement\OCModRec\obj\Debug\OCModRec.csproj.CoreCompileInputs.cache
+D:\Developpement\OCModRec\obj\Debug\OCModRec.exe
+D:\Developpement\OCModRec\obj\Debug\OCModRec.pdb
+D:\Developpement\OCModRec\obj\Debug\OCModRec.FormMain.resources
+D:\Developpement\OCModRec\bin\Debug\System.Buffers.dll
+D:\Developpement\OCModRec\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Developpement\OCModRec\obj\Debug\OCModRec.csproj.CopyComplete
+D:\Developpement\OCModRec\bin\Debug\System.Memory.dll
+D:\Developpement\OCModRec\bin\Debug\System.Numerics.Vectors.dll
+D:\Developpement\OCModRec\obj\Debug\OCModRec.FormSettings.resources
